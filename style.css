@@ -1,0 +1,3 @@
+.carousel-indicators li::marker {
+    content: none; /* Remove o conteúdo do marcador (números) */
+}
